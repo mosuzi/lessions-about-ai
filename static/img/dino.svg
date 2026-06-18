@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dinosaur">
+  <rect width="64" height="64" rx="14" fill="#2563eb"/>
+  <path d="M16 40c0-11 8-20 19-20h9c3 0 5 2 5 5v3h-8c-3 0-5 2-5 5v5h8v6H29c-7 0-13-1-13-4Z" fill="#fff"/>
+  <circle cx="43" cy="25" r="2" fill="#1e3a8a"/>
+  <path d="M24 43v7h-5v-8M34 44v6h-5v-6" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+</svg>
