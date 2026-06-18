@@ -5,10 +5,10 @@
   "packageManager": "pnpm@9.15.3",
   "description": "A Docusaurus knowledge site for learning how to use modern AI tools well.",
   "scripts": {
-    "start": "docusaurus start --host 127.0.0.1",
+    "start": "docusaurus start --host 127.0.0.1 --port 5454",
     "build": "docusaurus build",
-    "serve": "docusaurus serve --host 127.0.0.1",
-    "serve:static": "python3 -m http.server 3000 --bind 127.0.0.1 --directory build"
+    "serve": "docusaurus serve --host 127.0.0.1 --port 5454",
+    "serve:static": "python3 -m http.server 5454 --bind 127.0.0.1 --directory build"
   },
   "dependencies": {
     "@docusaurus/core": "latest",
